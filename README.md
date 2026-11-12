@@ -5,21 +5,23 @@
 Por favor, toma en cuenta todos los puntos a continuacion.
 
 ## Resumen
-En el transcurso de la entrevista, no se llevará a cabo una prueba técnica ni es necesario que te prepares en un área específica. La evaluación se centrará en tu experiencia general y particular, basada en tus trabajos previos. Se espera que puedas presentar una aplicación en funcionamiento y algunos fragmentos de código que evidencien tus destrezas como desarrollador/a.
+La entrevista se centrará en un proyecto en el que hayas participado. Prepara una breve demostración de su funcionamiento y selecciona fragmentos de código que permitan explicar tu aporte, tus decisiones y cómo verificaste los resultados. No habrá un ejercicio de programación, pero podremos plantearte cambios de requisitos para conversar sobre cómo los abordarías.
 
 ***No es necesario que envíes código ni compartas repositorios.***
 
 ## Objetivos
-- Evaluar el orden, la estructura y la reutilización en tu código.
-- Analizar cómo abordas la resolución de problemas programáticos.
-- Valorar la profundidad de los conocimientos requeridos.
+- Comprender tu aporte personal y el contexto del proyecto.
+- Evaluar la claridad, estructura y funcionamiento del código.
+- Analizar cómo tomas decisiones, investigas errores y verificas soluciones.
+- Explorar cómo adaptarías tu solución ante nuevos requisitos.
 
 ## Requisitos
-- Debes tener tu mejor aplicación lista, en funcionamiento y libre de errores (es esencial).
-- La aplicación debe estar desarrollada en la tecnología del puesto al que postulas.
+- Ten preparado un proyecto que conozcas bien y un recorrido funcional para demostrarlo.
+- El proyecto debe utilizar la tecnología del puesto al que postulas. 
+- Si tu trabajo anterior es confidencial, presenta un ejemplo propio o anonimizado.
 
 ## Duración 
-La entrevista tiene una duración de 15 minutos.
+La entrevista tiene una duración de 30 minutos.
  
 ## Modalidad
 La entrevista puede llevarse a cabo en la modalidad que tu elijas, de forma presencial ó virtual.
@@ -36,7 +38,7 @@ En caso de que la entrevista sea virtual, utilizaremos Google Meet como platafor
 Para iniciar, es necesario que la aplicación y el código estén listos para su presentación.
 
 ### Pasos de la entrevista
-- Breve descripción de la funcionalidad general de la aplicación.
-- Explicación sobre la parte que has desarrollado tú.
-- Análisis de tu código fuente.
-- Preguntas del entrevistador.
+- Breve presentación del proyecto, del equipo y de tu responsabilidad.
+- Breve demostración de una funcionalidad en la que hayas trabajado.
+- Revisión de fragmentos de código y explicación de tus decisiones.
+- Conversación sobre pruebas, errores y posibles cambios de requisitos.
